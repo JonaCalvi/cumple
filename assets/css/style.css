@@ -103,6 +103,7 @@ h6 {
   color: #eee;
   margin-bottom: 40px;
   font-size: 22px;
+  margin-top: 40px;
 }
 
 #header1 .countdown {
@@ -550,6 +551,7 @@ section {
 
 .masthead .masthead-avatar {
   width: 15rem;
+
 }
 
 
@@ -586,7 +588,14 @@ border: solid 2px #0066cc;
 }
 
 
+.borde {
+  border: 5px solid #1E00A4;
+border-radius: 22px 22px 0px 22px;
+}
 
 
 
-
+.titulo {
+  font-family: 'Fuzzy Bubbles', cursive;
+  color: white;
+}
